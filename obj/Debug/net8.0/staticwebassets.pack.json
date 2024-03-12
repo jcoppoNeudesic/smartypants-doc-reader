@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/obj/Debug/net8.0/scopedcss/projectbundle/SmartypantsDocReader.bundle.scp.css",
+      "PackagePath": "staticwebassets/SmartypantsDocReader.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SmartypantsDocReader.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SmartypantsDocReader.props",
+      "PackagePath": "build\\SmartypantsDocReader.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SmartypantsDocReader.props",
+      "PackagePath": "buildMultiTargeting\\SmartypantsDocReader.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SmartypantsDocReader.props",
+      "PackagePath": "buildTransitive\\SmartypantsDocReader.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
