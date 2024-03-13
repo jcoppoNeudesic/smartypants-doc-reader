@@ -27,3 +27,4 @@
 /Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/obj/Debug/net8.0/SmartypantsDocReader.pdb
 /Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/obj/Debug/net8.0/SmartypantsDocReader.genruntimeconfig.cache
 /Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/obj/Debug/net8.0/ref/SmartypantsDocReader.dll
+/Users/jayson.coppo/Projects/ASP.NET/SmartypantsDocReader/obj/Debug/net8.0/SmartypantsDocReader.sourcelink.json
